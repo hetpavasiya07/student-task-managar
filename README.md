@@ -33,6 +33,9 @@ The project uses the following public REST API for demonstration:
 The API returns JSON data representing tasks, which are parsed and displayed in the application.
 
 Application Screenshot
+<img width="398" height="685" alt="image" src="https://github.com/user-attachments/assets/7dd67e04-504f-4c89-b4a4-d07acd1056d5" />
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/fe03acd3-819e-46d3-9e49-800e60ff0631" />
+
 
 
 

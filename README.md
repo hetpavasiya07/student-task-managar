@@ -54,12 +54,3 @@ This project demonstrates the implementation of a task management system along w
 
 Developed For
 This project was developed for college academic submission as part of coursework requirements.
-
-
-If you want, I can also give:
-* Short viva explanation (2–3 minutes speaking script)
-* Technical architecture explanation
-* Possible viva questions and answers
-* Difference between FD Calculator and Task Manager projects for viva
-
-
